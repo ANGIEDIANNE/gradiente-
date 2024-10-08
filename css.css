@@ -1,0 +1,19 @@
+#box
+{
+    width: 500px;
+    height: 500px;
+
+   background: radial-gradient( rgb(239, 159, 232),rgb(125, 214, 247), rgb(0, 255, 229)) 
+}
+#circle
+{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+   background: linear-gradient( rgb(239, 159, 232),rgb(125, 214, 247), rgb(0, 255, 229));
+   margin:  40px auto;
+   box-shadow: 0 0 60px purple; 
+
+   
+}
+
